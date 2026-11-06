@@ -1,0 +1,2 @@
+# uts_kecerdasan_buatan
+uts_kecerdasan_buatan
